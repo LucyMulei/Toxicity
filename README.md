@@ -193,6 +193,3 @@ This project demonstrates:
 * Communicating machine learning results clearly
 
 ---
-
-
-Data Science and Analytics Student
